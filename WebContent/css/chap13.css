@@ -1,0 +1,23 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+ 
+*{
+	font-family: 'Nanum Pen Script', cursive;
+}
+.bg-blue{
+	background-color: #CCFFFF;
+}
+
+.myborder{
+		border: 1px solid black;
+}
+.mycenter{
+	text-align:center;
+}
+.myright{
+	text-align: right;
+}
+
+.myheightcenter{
+	line-height: 20px;
+}
